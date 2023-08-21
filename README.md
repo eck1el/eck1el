@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Dedicated Full Stack Developer with a strong foundation in front-end and back-end development. Proficient in a range of technologies, including Angular, PHP, MySQL, Python, HTML, and CSS. Experienced in creating dynamic and responsive web applications that provide exceptional user experiences.
+
 <!--
 **eck1el/eck1el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
